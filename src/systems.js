@@ -36,6 +36,7 @@ import alienrpg from "./systems/alienrpg.js";
 import pirateborg from "./systems/pirateborg.js";
 import starwarsffg from "./systems/starwarsffg.js";
 import demonlord from "./systems/demonlord.js";
+import shadowdark from "./systems/shadowdark.js";
 // ↑ IMPORT SYSTEMS HERE ↑
 
 /**
